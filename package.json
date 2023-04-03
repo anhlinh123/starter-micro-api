@@ -9,5 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+      "jsdom": "21.1.1",
+      "set-cookie-parser": "2.6.0"
   }
 }
